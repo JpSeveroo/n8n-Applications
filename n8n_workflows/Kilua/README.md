@@ -61,6 +61,7 @@ A IA entende muito de código, mas às vezes ela "inventa" conexões que não ex
 | `/genFlow` | Diagrama de Atividades (Fluxogramas) | PlantUML (Mais seguro) |
 | `/genCase` | Casos de Uso (Atores e Ações) | PlantUML (Essencial) |
 | `/menu` | Mostra o menu interativo | - |
+| `/start` | Executa o primeiro contato | - |
 | `/help` | Exibe este guia | - |
 
 ### Como pedir (A Engenharia de Prompt)
