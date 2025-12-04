@@ -89,4 +89,4 @@ Sinta-se livre para usar, modificar e distribuir os workflows conforme desejar.
 
 João Pedro
 Desenvolvedor e entusiasta de automações com n8n.
-📫 Contato: severojoaoopedro@gmail.com
+📫 Contato: severojoaoopedro90@gmail.com
